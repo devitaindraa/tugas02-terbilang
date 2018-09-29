@@ -1,0 +1,6 @@
+D:\kuliah\SEM3\pemrograman lanjut\p2\Terbilang\TerbilangLibrary\bin\Debug\TerbilangLibrary.dll
+D:\kuliah\SEM3\pemrograman lanjut\p2\Terbilang\TerbilangLibrary\bin\Debug\TerbilangLibrary.pdb
+D:\kuliah\SEM3\pemrograman lanjut\p2\Terbilang\TerbilangLibrary\obj\Debug\TerbilangLibrary.csprojResolveAssemblyReference.cache
+D:\kuliah\SEM3\pemrograman lanjut\p2\Terbilang\TerbilangLibrary\obj\Debug\TerbilangLibrary.csproj.CoreCompileInputs.cache
+D:\kuliah\SEM3\pemrograman lanjut\p2\Terbilang\TerbilangLibrary\obj\Debug\TerbilangLibrary.dll
+D:\kuliah\SEM3\pemrograman lanjut\p2\Terbilang\TerbilangLibrary\obj\Debug\TerbilangLibrary.pdb

@@ -1,0 +1,12 @@
+D:\kuliah\SEM3\pemrograman lanjut\p2\Terbilang\TerbilangApp\bin\Debug\TerbilangApp.exe.config
+D:\kuliah\SEM3\pemrograman lanjut\p2\Terbilang\TerbilangApp\bin\Debug\TerbilangApp.exe
+D:\kuliah\SEM3\pemrograman lanjut\p2\Terbilang\TerbilangApp\bin\Debug\TerbilangApp.pdb
+D:\kuliah\SEM3\pemrograman lanjut\p2\Terbilang\TerbilangApp\obj\Debug\TerbilangApp.Form1.resources
+D:\kuliah\SEM3\pemrograman lanjut\p2\Terbilang\TerbilangApp\obj\Debug\TerbilangApp.Properties.Resources.resources
+D:\kuliah\SEM3\pemrograman lanjut\p2\Terbilang\TerbilangApp\obj\Debug\TerbilangApp.csproj.GenerateResource.Cache
+D:\kuliah\SEM3\pemrograman lanjut\p2\Terbilang\TerbilangApp\obj\Debug\TerbilangApp.csproj.CoreCompileInputs.cache
+D:\kuliah\SEM3\pemrograman lanjut\p2\Terbilang\TerbilangApp\obj\Debug\TerbilangApp.exe
+D:\kuliah\SEM3\pemrograman lanjut\p2\Terbilang\TerbilangApp\obj\Debug\TerbilangApp.pdb
+D:\kuliah\SEM3\pemrograman lanjut\p2\Terbilang\TerbilangApp\bin\Debug\TerbilangLibrary.dll
+D:\kuliah\SEM3\pemrograman lanjut\p2\Terbilang\TerbilangApp\bin\Debug\TerbilangLibrary.pdb
+D:\kuliah\SEM3\pemrograman lanjut\p2\Terbilang\TerbilangApp\obj\Debug\TerbilangApp.csprojResolveAssemblyReference.cache
